@@ -1,3 +1,2 @@
-import VCO
-
-print(VCO.voltageToFrequency(1.1))
+import vco
+print(vco.voltageToFrequency(1.1))
